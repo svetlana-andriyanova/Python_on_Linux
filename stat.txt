@@ -1,0 +1,88 @@
+From /proc/loadavg:
+Time: 17:36:36.785979 count: 5 size: 1M load: 1.97 1.03 0.98 2/838 36237
+
+Journal of logs:
+ноя 23 17:36:36 userpc snapd-desktop-i[35789]: Detected new session 430 at /org/freedesktop/login1/session/_3430
+ноя 23 17:36:37 userpc snapd-desktop-i[35789]: Detected new session 431 at /org/freedesktop/login1/session/_3431
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+From /proc/loadavg:
+Time: 13:32:39.659646 count: 5 size: 1M load: 1.97 1.03 0.98 4/837 36370
+
+Journal of logs:
+ноя 23 17:36:39 userpc snapd-desktop-i[35789]: Detected new session 433 at /org/freedesktop/login1/session/_3433
+ноя 23 17:36:40 userpc snapd-desktop-i[35789]: Detected new session 434 at /org/freedesktop/login1/session/_3434
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+From /proc/loadavg:
+Time: 17:36:52.526806 count: 5 size: 1M load: 2.04 1.09 1.00 2/843 36914
+
+Journal of logs:
+ноя 23 17:36:52 userpc snapd-desktop-i[35789]: Detected new session 443 at /org/freedesktop/login1/session/_3443
+ноя 23 17:36:53 userpc snapd-desktop-i[35789]: Detected new session 444 at /org/freedesktop/login1/session/_3444
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+From /proc/loadavg:
+Time: 17:37:04.695980 count: 5 size: 1M load: 2.49 1.22 1.04 2/835 37403
+
+Journal of logs:
+ноя 23 17:37:04 userpc snapd-desktop-i[35789]: Detected new session 454 at /org/freedesktop/login1/session/_3454
+ноя 23 17:37:05 userpc snapd-desktop-i[35789]: Detected new session 455 at /org/freedesktop/login1/session/_3455
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+From /proc/loadavg:
+Time: 17:37:26.849329 count: 5 size: 1M load: 2.74 1.39 1.10 2/834 38420
+
+Journal of logs:
+ноя 23 17:37:26 userpc snapd-desktop-i[35789]: Detected new session 477 at /org/freedesktop/login1/session/_3477
+ноя 23 17:37:27 userpc snapd-desktop-i[35789]: Detected new session 478 at /org/freedesktop/login1/session/_3478
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+From /proc/loadavg:
+Time: 17:37:41.640445 count: 5 size: 1M load: 2.64 1.44 1.12 6/834 39084
+
+Journal of logs:
+ноя 23 17:37:41 userpc snapd-desktop-i[35789]: Detected new session 492 at /org/freedesktop/login1/session/_3492
+ноя 23 17:37:42 userpc snapd-desktop-i[35789]: Detected new session 493 at /org/freedesktop/login1/session/_3493
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+From /proc/loadavg:
+Time: 17:37:44.459432 count: 5 size: 1M load: 2.64 1.44 1.12 2/834 39217
+
+Journal of logs:
+ноя 23 17:37:44 userpc snapd-desktop-i[35789]: Detected new session 495 at /org/freedesktop/login1/session/_3495
+ноя 23 17:37:45 userpc snapd-desktop-i[35789]: Detected new session 496 at /org/freedesktop/login1/session/_3496
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+From /proc/loadavg:
+Time: 17:37:48.601692 count: 5 size: 1M load: 2.59 1.45 1.13 3/835 39353
+
+Journal of logs:
+ноя 23 17:37:48 userpc snapd-desktop-i[35789]: Detected new session 498 at /org/freedesktop/login1/session/_3498
+ноя 23 17:37:49 userpc snapd-desktop-i[35789]: Detected new session 499 at /org/freedesktop/login1/session/_3499
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+From /proc/loadavg:
+Time: 17:38:03.032393 count: 5 size: 1M load: 2.32 1.44 1.13 2/834 39975
+
+Journal of logs:
+ноя 23 17:38:03 userpc snapd-desktop-i[35789]: Detected new session 513 at /org/freedesktop/login1/session/_3513
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
+From /proc/loadavg:
+Time: 17:38:22.097799 count: 5 size: 1M load: 2.78 1.61 1.19 3/833 40816
+
+Journal of logs:
+ноя 23 17:38:22 userpc snapd-desktop-i[35789]: Detected new session 532 at /org/freedesktop/login1/session/_3532
+Hint: You are currently not seeing messages from other users and the system.
+      Users in groups 'adm', 'systemd-journal' can see all messages.
+      Pass -q to turn off this notice.
