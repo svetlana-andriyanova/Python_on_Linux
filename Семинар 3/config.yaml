@@ -1,0 +1,7 @@
+folder_in: '/home/user/Test7z/tst'
+folder_out: '/home/user/Test7z/out'
+folder_ext: '/home/user/Test7z/folder1'
+folder_ext2: '/home/user/Test7z/folder2'
+type: zip
+bs: 1M
+count: 5
