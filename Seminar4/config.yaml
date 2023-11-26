@@ -1,0 +1,10 @@
+folder_in: '/home/user2/Test7z/tst'
+folder_out: '/home/user2/Test7z/out'
+folder_ext: '/home/user2/Test7z/folder1'
+folder_ext2: '/home/user2/Test7z/folder2'
+type: zip
+bs: 1M
+count: 5
+host: '0.0.0.0'
+login: 'user2'
+passwd: '2222'
